@@ -1,0 +1,25 @@
+{
+  "name": "store-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lulian666/store-api.git"
+  },
+  "author": "lulian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lulian666/store-api/issues"
+  },
+  "homepage": "https://github.com/lulian666/store-api#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "express-async-errors": "^3.1.1",
+    "mongoose": "^6.8.1"
+  }
+}
